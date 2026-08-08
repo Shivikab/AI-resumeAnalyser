@@ -10,7 +10,7 @@
 ✅ Powered by Google Gemini API  
 
 ## 🔥 Live Demo  
-[🔗 Check it out on Streamlit](https://airesumecheck.streamlit.app/)
+[🔗 Check it out on Streamlit]([https://airesumecheck.streamlit.app/](https://ai-resumeanalyser-gwanbe8gxo7tltqro48t6k.streamlit.app/))
 
 ## 🛠 Tech Stack  
 - **Frontend**: Streamlit  
