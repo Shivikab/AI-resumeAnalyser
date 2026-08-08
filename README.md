@@ -23,7 +23,7 @@
 1. Clone the repo  
    ```bash
    git clone https://github.com/Shivikab/AI-resumeAnalyser
-   cd AI-resumeAnalyzer
+   cd AI-resumeAnalyser
 2. Install Dependencies
    ```bash
    pip install -r requirements.txt
@@ -36,7 +36,7 @@
 
 ## 📸Working
 
-![Video](https://github.com/user-attachments/assets/4c978295-9076-45a8-a339-49442eb53eec)
+https://github.com/user-attachments/assets/4c978295-9076-45a8-a339-49442eb53eec
 
 
 ## 🔗 Credits & Acknowledgment
