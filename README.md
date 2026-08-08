@@ -22,8 +22,8 @@
 ## 🚀 Installation & Setup  
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/resumeanalyzer.git
-   cd resumeanalyzer
+   git clone https://github.com/Shivikab/AI-resumeAnalyser
+   cd AI-resumeAnalyzer
 2. Install Dependencies
    ```bash
    pip install -r requirements.txt
