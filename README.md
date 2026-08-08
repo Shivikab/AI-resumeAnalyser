@@ -36,18 +36,7 @@
 
 ## 📸Working
 
-
-![video](https://github.com/user-attachments/assets/4c978295-9076-45a8-a339-49442eb53eec)
-
-
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/8bd32772-99ff-477e-b377-dc91960313d7)
+![Video](https://github.com/user-attachments/assets/4c978295-9076-45a8-a339-49442eb53eec)
 
 
 ## 🔗 Credits & Acknowledgment
